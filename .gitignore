@@ -1,0 +1,8 @@
+genres_original/
+genres_processed/
+image_data_processed_rgb/
+images_original/
+support_files/bird_sounds/
+*.pdf
+*.h5
+*.keras
